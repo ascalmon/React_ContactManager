@@ -2,7 +2,7 @@
   "name": "contactmanager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://danielvallecl.github.io/contactmanager",
+  "homepage": "https://ascalmon.github.io/React_ContactManager",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.3.1",
